@@ -22,10 +22,9 @@ I have dived deep with
 ### Reach Out!
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me@jacobbolda.com)
-[![Twitter](https://img.shields.io/badge/@jacobbolda-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jacobbolda)
-[![Twitch](https://img.shields.io/badge/JacobBolda-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/jacobbolda)
-[![Twitch](https://img.shields.io/badge/FrontsideSoftware-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/frontsidesoftware)
 [![YouTube](https://img.shields.io/badge/JacobBolda-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfDOZx19vreGK7CT1XkMz0Q)
+[![Mastodon](https://img.shields.io/badge/@jacobbolda-%236260fa.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://hachyderm.io/@jacobbolda)
+[![Twitter](https://img.shields.io/badge/@jacobbolda-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jacobbolda)
 
 ### Support Me!
 
